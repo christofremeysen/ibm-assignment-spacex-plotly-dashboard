@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Dash
+.env
+
+# OS
+.DS_Store
